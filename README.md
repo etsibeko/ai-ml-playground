@@ -1,2 +1,5 @@
-# ai-ml-playground
-Personal AI &amp; Machine Learning notebooks and experiments.
+# AI/ML Playground 👨‍💻🧠
+
+This is my space to experiment, learn, and research artificial intelligence and machine learning.
+
+Built with ❤️ by @etsibeko.
